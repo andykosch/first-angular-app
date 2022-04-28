@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "my-angular-app-929c0": {
+      "hosting": {
+        "my-app": [
+          "my-angular-app-929c0"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "my-angular-app-929c0"
+  }
+}
